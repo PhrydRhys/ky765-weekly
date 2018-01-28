@@ -12,3 +12,8 @@ My name is Kenneth Yang and I am currently a senior at NYU CAS majoring in Compu
 
 I enjoy problem solving, which includes competitive programming playing strategy games.
 
+#### Programming Languages:
+* Java (Advanced)
+* C (Intermediate)
+* Python (Intermediate)
+* C (Intermediate)
