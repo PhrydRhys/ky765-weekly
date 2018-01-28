@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Hello! My name is Kenneth Yang and I am currently a senior at NYU CAS majoring in Computer Science.
+Hello!
+
+My name is Kenneth Yang and I am currently a senior at NYU CAS majoring in Computer Science and minoring in Mathematics and Economics.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I enjoy problem solving, which includes competitive programming playing strategy games.
 
