@@ -14,6 +14,6 @@ I enjoy problem solving, which includes competitive programming playing strategy
 
 #### Programming Languages:
 * Java
-* C
+* C++
 * Python
 * C
