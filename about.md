@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! My name is Kenneth Yang and I am currently a senior at NYU CAS majoring in Computer Science.
 
 ### More Information
 
