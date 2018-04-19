@@ -9,8 +9,9 @@
 |    4     | Confirmed fix on issue [#12](https://github.com/joannakl/cs480_s18/issues/12) with pull request [#56](https://github.com/joannakl/cs480_s18/pull/56)                                       | Course Website |
 |    7     | Commented on issue [#95](https://github.com/joannakl/cs480_s18/issues/95)| Course Website |
 |    10    | Created fix for issue [#95](https://github.com/joannakl/cs480_s18/issues/95) with pull request [#105](https://github.com/joannakl/cs480_s18/pull/105)                                      | Course Website |
-|    3     | Contributed to [OpenAI](https://en.wikipedia.org/w/index.php?title=OpenAI&oldid=824974813#History) ([contribution page](https://en.wikipedia.org/wiki/Special:Contributions/PhrydRhys))                 | Wikipedia |
-|    6     | Contributed to [Gameplay of Pokémon](https://en.wikipedia.org/w/index.php?title=Gameplay_of_Pok%C3%A9mon&oldid=828852757#Pok%C3%A9mon_evolution) ([contribution page](https://en.wikipedia.org/wiki/Special:Contributions/PhrydRhys))                      | Wikipedia |
+|    3     | Contributed to the [OpenAI](https://en.wikipedia.org/w/index.php?title=OpenAI&oldid=824974813#History) ([contribution page](https://en.wikipedia.org/wiki/Special:Contributions/PhrydRhys))                 | Wikipedia |
+|    6     | Contributed to the [Gameplay of Pokémon](https://en.wikipedia.org/w/index.php?title=Gameplay_of_Pok%C3%A9mon&oldid=828852757#Pok%C3%A9mon_evolution) ([contribution page](https://en.wikipedia.org/wiki/Special:Contributions/PhrydRhys))                      | Wikipedia |
+|    12     | Contributed to [Missing square puzzle](https://en.wikipedia.org/w/index.php?title=Missing_square_puzzle&oldid=837257799) ([contribution page](https://en.wikipedia.org/wiki/Special:Contributions/PhrydRhys))                      | Wikipedia |
 |    11    | Commented on Karrot's frontend [license timespan issue](https://github.com/yunity/karrot-frontend/issues/997)                                                                                           | Other |
 |    11    | Created fix for Karrot's frontend [license timespan issue](https://github.com/yunity/karrot-frontend/issues/997) with this [pull request](https://github.com/yunity/karrot-frontend/pull/1007)         | Other |
 
@@ -30,9 +31,9 @@
 |   **Contribution Type**   |**Total**|**Limit**|
 |---------------------------|---------|---------|
 |  Course Website-Related   |  8 (9)  |    8    |
-|  Wikipedia or other Wiki  |    2    |    5    |
+|  Wikipedia or other Wiki  |    3    |    5    |
 | Other Small Contributions |    2    |   None  |
-|       **TOTAL**           | 12 (13) |         |
+|       **TOTAL**           | 13 (14) |         |
 
 <style>
     table {
