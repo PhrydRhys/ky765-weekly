@@ -14,6 +14,7 @@
 |    12     | Contributed to [Missing square puzzle](https://en.wikipedia.org/w/index.php?title=Missing_square_puzzle&oldid=837257799) ([contribution page](https://en.wikipedia.org/wiki/Special:Contributions/PhrydRhys))                      | Wikipedia |
 |    11    | Commented on Karrot's frontend [license timespan issue](https://github.com/yunity/karrot-frontend/issues/997)                                                                                           | Other |
 |    11    | Created fix for Karrot's frontend [license timespan issue](https://github.com/yunity/karrot-frontend/issues/997) with this [pull request](https://github.com/yunity/karrot-frontend/pull/1007)         | Other |
+|    11    | Confirmed fix for PyAutoGUI [issue](https://github.com/asweigart/pyautogui/issues/219) to find words from screen shots and click on it                                                                 | Other |
 
 <style>
     table {
@@ -32,8 +33,8 @@
 |---------------------------|---------|---------|
 |  Course Website-Related   |  8 (9)  |    8    |
 |  Wikipedia or other Wiki  |    3    |    5    |
-| Other Small Contributions |    2    |   None  |
-|       **TOTAL**           | 13 (14) |         |
+| Other Small Contributions |    3    |   None  |
+|       **TOTAL**           | 14 (15) |         |
 
 <style>
     table {
