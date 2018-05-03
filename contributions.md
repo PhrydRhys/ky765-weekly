@@ -21,6 +21,7 @@
 |       19       |    14    | Updated Franklin Lakes Police Department's address & phone # ([changeset](https://www.openstreetmap.org/changeset/58629749) & [contribution page](https://www.openstreetmap.org/user/Epicfailur/history))         | Other (Open Maps) |
 |       20       |    14    | Updated [The Chef's Table](http://www.tctnj.com/)'s hours, address, description, outdoor seating status, and takeout status ([changeset](https://www.openstreetmap.org/changeset/58630437) & [contribution page](https://www.openstreetmap.org/user/Epicfailur/history))                              | Other (Open Maps) |
 |       21       |    14    | Added [George Washington Elementary School]()'s phone #, description, and address ([changeset](https://www.openstreetmap.org/changeset/58631030) & [contribution page](https://www.openstreetmap.org/user/Epicfailur/history))                                                                                               | Other (Open Maps) |
+|       22       |    14    | Added [Franklin Lakes Middle School](https://fams.franklinlakes.k12.nj.us/)'s address and phone number ([changeset](https://www.openstreetmap.org/changeset/58631820) & [contribution page](https://www.openstreetmap.org/user/Epicfailur/history))                              | Other (Open Maps) |
 
 <style>
     table {
@@ -39,8 +40,8 @@
 |---------------------------|---------|---------|
 |  Course Website-Related   |  8 (9)  |    8    |
 |  Wikipedia or other Wiki  |    3    |    5    |
-| Other Small Contributions |    9    |   None  |
-|       **TOTAL**           | 20 (21) |         |
+| Other Small Contributions |   10    |   None  |
+|       **TOTAL**           | 21 (22) |         |
 
 <style>
     table {
